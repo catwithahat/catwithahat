@@ -14,5 +14,3 @@
   <img width="22.5%" src="https://user-images.githubusercontent.com/34602686/87717681-16919580-c7b1-11ea-8ef6-8cda8e072de3.jpg" />
   <img width="22.5%" src="https://user-images.githubusercontent.com/34602686/87717749-345efa80-c7b1-11ea-8ca0-3998d84c3f22.png" />
 </p>
-
-Send more pics please!
