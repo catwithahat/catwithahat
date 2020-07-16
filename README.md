@@ -1,7 +1,6 @@
 ### Meow there! 🐱
 
 Only serious business, payment in mouses or hats.
-
 <p>
   <img float="left" width="22.5%" height="auto" src="https://user-images.githubusercontent.com/34602686/87715698-06c48200-c7ae-11ea-86c3-22cafb514acf.jpg" />
   <img width="22.5%" src="https://user-images.githubusercontent.com/34602686/87715819-35425d00-c7ae-11ea-91e6-efd4c280719a.jpg" />
